@@ -100,14 +100,20 @@ export const projects = [
     ],
     link: "https://evently-nine-mu.vercel.app",
   },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "/ui.apple.com",
-  // },
+  {
+    id: 4,
+    title: "Jotion - A Notion Clone",
+    des: "Write a document, add cover and images and publish it so your friends can see it too!",
+    img: "/jotion-image.png",
+    iconLists: [
+      "/next.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/convex-logo-only.svg",
+      "/c.svg",
+    ],
+    link: "https://nextjs-notion-clone-app.vercel.app",
+  },
 ]
 
 export const testimonials = [
